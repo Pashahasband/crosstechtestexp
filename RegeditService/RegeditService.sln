@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.28803.452
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegeditService", "RegeditService\RegeditService.csproj", "{2D5AF564-0DC7-47A7-895A-6FA0209771A1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Regedit.Tests", "..\..\test\Regedit\Regedit.Tests\Regedit.Tests.csproj", "{274B0FDF-E952-4754-ABC4-ECCEBB847A08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Regedit.Tests", "..\Regedit.Tests\Regedit.Tests.csproj", "{EAF98E1F-3E3F-4BB6-8851-5C6399C00B4A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{2D5AF564-0DC7-47A7-895A-6FA0209771A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D5AF564-0DC7-47A7-895A-6FA0209771A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D5AF564-0DC7-47A7-895A-6FA0209771A1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{274B0FDF-E952-4754-ABC4-ECCEBB847A08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{274B0FDF-E952-4754-ABC4-ECCEBB847A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{274B0FDF-E952-4754-ABC4-ECCEBB847A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{274B0FDF-E952-4754-ABC4-ECCEBB847A08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAF98E1F-3E3F-4BB6-8851-5C6399C00B4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF98E1F-3E3F-4BB6-8851-5C6399C00B4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF98E1F-3E3F-4BB6-8851-5C6399C00B4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF98E1F-3E3F-4BB6-8851-5C6399C00B4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
